@@ -1,0 +1,93 @@
+Body {
+
+    Font-family: -apple-system, BlinkMacSystemFont, “Segoe UI”, Roboto, “Helvetica Neue”, Arial, sans-serif;
+
+    Background-color: #f8f9fa;
+
+}
+
+
+
+Header {
+
+    Margin-bottom: 2rem;
+
+}
+
+
+
+.jumbotron-heading {
+
+    Margin-bottom: 2rem;
+
+}
+
+
+
+.card {
+
+    Border-radius: 0.75rem;
+
+    Overflow: hidden;
+
+}
+
+
+
+.card-img-top {
+
+    Object-fit: cover;
+
+    Height: 225px;
+
+}
+
+
+
+.card-body {
+
+    Padding: 1rem;
+
+}
+
+
+
+.btn-group {
+
+    Margin-right: 1rem;
+
+}
+
+
+
+.text-muted {
+
+    Font-size: 0.875rem;
+
+}
+
+
+
+.album {
+
+    Padding-top: 3rem;
+
+    Padding-bottom: 3rem;
+
+}
+
+
+
+.bg-dark {
+
+    Background-color: #343A40 ¡important;
+
+}
+
+
+
+.bg-light {
+
+    Background-color: #f8f9fa ¡important;
+
+}
